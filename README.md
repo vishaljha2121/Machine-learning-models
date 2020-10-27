@@ -1,2 +1,2 @@
-# Machine-learning-models
+# Machine-learning-models(basics)
 Practice files
